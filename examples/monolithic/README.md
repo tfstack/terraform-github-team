@@ -36,8 +36,8 @@ This example demonstrates how to manage a monolithic setup of GitHub teams using
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo-path.git
-    cd examples/github-teams
+    git clone https://github.com/tfstack/terraform-github-team.git
+    cd examples/monolithic
     ```
 
 2. Initialize and apply:
