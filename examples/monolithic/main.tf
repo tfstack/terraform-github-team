@@ -1,7 +1,7 @@
 module "github_team" {
   source = "../.."
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {

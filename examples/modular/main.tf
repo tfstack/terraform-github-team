@@ -1,7 +1,7 @@
 module "devops_core" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {
@@ -21,7 +21,7 @@ module "devops_core" {
 module "devops_infrastructure" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {
@@ -43,7 +43,7 @@ module "devops_infrastructure" {
 module "devops_cicd" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {
@@ -64,7 +64,7 @@ module "devops_cicd" {
 module "devops_monitoring" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {
@@ -85,7 +85,7 @@ module "devops_monitoring" {
 module "devops_docs" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {
@@ -106,7 +106,7 @@ module "devops_docs" {
 module "github_release" {
   source = "tfstack/team/github"
 
-  github_owner = "jdevto"
+  github_owner = "your-organization-name"
 
   teams = [
     {

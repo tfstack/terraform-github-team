@@ -35,8 +35,8 @@ This example demonstrates how to create a modular hierarchy of GitHub teams usin
 1. Clone the example directory:
 
     ```bash
-    git clone https://github.com/tfstack/team-modules.git
-    cd examples/devops-teams
+    git clone https://github.com/tfstack/terraform-github-team.git
+    cd examples/modular
     ```
 
 2. Initialize and apply:

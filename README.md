@@ -8,9 +8,9 @@ export GITHUB_TOKEN=ghp_xxx
 
 ### Required permission
 
-[] repo
-[] admin:org:write:org
-[] delete_repo
+- [] repo
+- [] admin:org:write:org
+- [] delete_repo
 
 ## Requirements
 
